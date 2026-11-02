@@ -8,8 +8,8 @@ I'm studying Mechanical Engineering at Università Politecnica delle Marche.
 
 | Project | What it is |
 |---------|------------|
-|  |
-|  |
+| Athletics Venue Manager |
+|  EDM Results|
 |  |
 
 ## Contact
