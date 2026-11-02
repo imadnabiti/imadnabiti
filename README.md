@@ -8,9 +8,9 @@ I'm studying Mechanical Engineering at Università Politecnica delle Marche.
 
 | Project | What it is |
 |---------|------------|
-| Athletics Venue Manager |
-|  EDM Results|
-|  |
+| Athletics Venue Manager | Check all the info about Track and field facilities in a specific zone
+|  EDM Results| Converts and shows all data from EDM to use them in Athletics
+
 
 ## Contact
 
