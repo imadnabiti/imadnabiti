@@ -1,6 +1,7 @@
 # Hi, Welcome to my Github!
 
-I'm studying Mechanical Engineering at Università Politecnica delle Marche and in on the weekends I'm a technical secretary for Fidal Marche this is why a lot of my projects are Athletics related.
+I'm a Mechanical Engineering Student at Università Politecnica delle Marche and On the weekends I'm a technical secretary for Fidal Marche.
+
 
 
 
